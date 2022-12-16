@@ -1,0 +1,467 @@
+{
+    "desings" : [
+          {
+            "id" : 1,
+              "url" : "https://i.postimg.cc/0570nG7t/25-activa.png",
+              "descripcion" : "Efemeride del 25 de mayo",
+              "tipo" : "digital",
+              "de" : "Activa"
+          },
+          {
+            "id" : 2,
+              "url" : "https://i.postimg.cc/HLJQybp9/activa1.png",
+              "descripcion" : "Curso de modelaje",
+              "tipo" : "digital",
+              "de" : "Activa"
+          },
+          {
+            "id" : 3,
+              "url" : "https://i.postimg.cc/Wpm0gNPC/activa2.png",
+              "descripcion" : "Desfile de verano",
+              "tipo" : "digital",
+              "de" : "Activa"
+          },
+          {
+            "id" : 4,
+              "url" : "https://i.postimg.cc/4N5bkJLV/activa3.png",
+              "descripcion" : "Efemeride dia de la mujer",
+              "tipo" : "digital",
+              "de" : "Activa"
+          },
+          {
+            "id" : 5,
+              "url" : "https://i.postimg.cc/4NZbSK5X/activa4.png",
+              "descripcion" : "Efemeride dia del estudiante",
+              "tipo" : "digital",
+              "de" : "Activa"
+          },
+          {
+            "id" : 6,
+              "url" : "https://i.postimg.cc/wT0J4wMk/activa5.png",
+              "descripcion" : "Efemeride verano",
+              "tipo" : "digital",
+              "de" : "Activa"
+          },
+          {
+            "id" : 7,
+              "url" : "https://i.postimg.cc/Dy2Lc9vZ/activa6.png",
+              "descripcion" : "Efemeride verano1",
+              "tipo" : "digital",
+              "de" : "Activa"
+          },
+          {
+            "id" : 8,
+              "url" : "https://i.postimg.cc/4xxvXrqM/activa7.png",
+              "descripcion" : "Efemeride navidad",
+              "tipo" : "digital",
+              "de" : "Activa"
+          },
+          {
+            "id" : 9,
+              "url" : "https://i.postimg.cc/g2tVjgP0/ano-nuevo-ab.png",
+              "descripcion" : "Efemeride año nuevo",
+              "tipo" : "digital",
+              "de" : "Activa"
+          },
+          {
+            "id" : 10,
+              "url" : "https://i.postimg.cc/TPZnqh1M/pascuas-activa.png",
+              "descripcion" : "Efermeride pascuas",
+              "tipo" : "digital",
+              "de" : "Activa"
+          },
+          {
+            "id" : 11,
+              "url" : "https://i.postimg.cc/Y26WDZHJ/navidad.png",
+              "descripcion" : "Efermeride navidad",
+              "tipo" : "digital",
+              "de" : "SIMED"
+          },
+          {
+            "id" : 12,
+              "url" : "https://i.postimg.cc/3rFkFGjh/simed1.png",
+              "descripcion" : "Efermeride hipertencion",
+              "tipo" : "digital",
+              "de" : "SIMED"
+          },
+          {
+            "id" : 13,
+              "url" : "https://i.postimg.cc/T10h2821/simed2.png",
+              "descripcion" : "Efermerideinvestigador cientifico",
+              "tipo" : "digital",
+              "de" : "SIMED"
+          },
+          {
+            "id" : 14,
+              "url" : "https://i.postimg.cc/xTsqWSFF/simed3.png",
+              "descripcion" : "Efermeride ano nuevo",
+              "tipo" : "digital",
+              "de" : "SIMED"
+          },
+          {
+            "id" : 15,
+              "url" : "https://i.postimg.cc/Lsgqt0DQ/simed4.png",
+              "descripcion" : "Efermeride ano nuevo portada",
+              "tipo" : "digital",
+              "de" : "SIMED"
+          },
+          {
+            "id" : 16,
+              "url" : "https://i.postimg.cc/7hwfyPkj/simed5.png",
+              "descripcion" : "Efermeride dia de la mujer",
+              "tipo" : "digital",
+              "de" : "SIMED"
+          },
+          {
+            "id" : 17,
+              "url" : "https://i.postimg.cc/mDxP8N6L/simed6.png",
+              "descripcion" : "Aviso",
+              "tipo" : "digital",
+              "de" : "SIMED"
+          },
+          {
+            "id" : 18,
+              "url" : "https://i.postimg.cc/yY6kQNnZ/simed7.png",
+              "descripcion" : "Publicidad",
+              "tipo" : "digital",
+              "de" : "SIMED"
+          },
+          {
+            "id" : 19,
+              "url" : "https://i.postimg.cc/RVnKQh0L/choque-de-decadas-feed.png",
+              "descripcion" : "Choque de decadas",
+              "tipo" : "digital",
+              "de" : "Zumba"
+          },
+          {
+            "id" : 20,
+              "url" : "https://i.postimg.cc/SKVMNzZk/choque-de-decadas-story.png",
+              "descripcion" : "Choque de decadas history",
+              "tipo" : "digital",
+              "de" : "Zumba"
+          },
+          {
+            "id" : 21,
+              "url" : "https://i.postimg.cc/y849fKg4/ema.png",
+              "descripcion" : "Master class",
+              "tipo" : "digital",
+              "de" : "Zumba"
+          },
+          {
+            "id" : 22,
+              "url" : "https://i.postimg.cc/rw143Hxd/ema.jpg",
+              "descripcion" : "Horarios",
+              "tipo" : "digital",
+              "de" : "Zumba"
+          },
+          {
+            "id" : 23,
+              "url" : "https://i.postimg.cc/43Xcg1QW/ema-2.png",
+              "descripcion" : "Clase de primavera",
+              "tipo" : "digital",
+              "de" : "Zumba"
+          },
+          {
+            "id" : 24,
+              "url" : "https://i.postimg.cc/vmX0FTf6/historia.png",
+              "descripcion" : "Historia",
+              "tipo" : "digital",
+              "de" : "Rotaract"
+          },
+          {
+            "id" : 25,
+              "url" : "https://i.postimg.cc/J4ZVw3nD/limpieza.png",
+              "descripcion" : "Jornada de limpieza",
+              "tipo" : "digital",
+              "de" : "Rotaract"
+          },
+          {
+            "id" : 26,
+              "url" : "https://i.postimg.cc/c1Vy5ksG/paula.png",
+              "descripcion" : "Certificado",
+              "tipo" : "digital",
+              "de" : "Rotaract"
+          },
+          {
+            "id" : 27,
+              "url" : "https://i.postimg.cc/RFFXMmLp/portad-tw.png",
+              "descripcion" : "Portada twitter",
+              "tipo" : "digital",
+              "de" : "Rotaract"
+          },
+          {
+            "id" : 28,
+              "url" : "https://i.postimg.cc/ZRMjnQfb/portada-polio-fb.png",
+              "descripcion" : "Portada polio fb",
+              "tipo" : "digital",
+              "de" : "Rotaract"
+          },
+          {
+            "id" : 29,
+              "url" : "https://i.postimg.cc/cCthncjQ/portada-polio-fb1.png",
+              "descripcion" : "Portada polio fb1",
+              "tipo" : "digital",
+              "de" : "Rotaract"
+          },
+          {
+            "id" : 30,
+              "url" : "https://i.postimg.cc/L4qFDFFV/rotazumba.png",
+              "descripcion" : "Rotazumba",
+              "tipo" : "digital",
+              "de" : "Rotaract"
+          },
+          {
+            "id" : 31,
+              "url" : "https://i.postimg.cc/yd21jVfw/25-ani-feed.png",
+              "descripcion" : "Aniversario",
+              "tipo" : "digital",
+              "de" : "Rotaract"
+          },
+          {
+            "id" : 32,
+              "url" : "https://i.postimg.cc/CMfL1q5Y/cumplea-os-historias.png",
+              "descripcion" : "Aniversario historia",
+              "tipo" : "digital",
+              "de" : "Rotaract"
+          },
+          {
+            "id" : 33,
+              "url" : "https://i.postimg.cc/gr9DqZF1/semanal2.png",
+              "descripcion" : "Aniversario semana",
+              "tipo" : "digital",
+              "de" : "Rotaract"
+          },
+          {
+            "id" : 34,
+              "url" : "https://i.postimg.cc/0yhV9FB9/sticker1.png",
+              "descripcion" : "Sticker 1",
+              "tipo" : "sticker",
+              "de" : "Rotaract"
+          },
+          {
+            "id" : 35,
+            "url" : "https://i.postimg.cc/4y81qSck/sticker2.png",
+            "descripcion" : "Sticker 2",
+            "tipo" : "sticker",
+            "de" : "Rotaract"
+          },
+          {
+            "id" : 36,
+            "url" : "https://i.postimg.cc/NMcbHTtV/sticker3.png",
+            "descripcion" : "Sticker 3",
+            "tipo" : "sticker",
+            "de" : "Rotaract"
+          },
+          {
+            "id" : 37,
+            "url" : "https://i.postimg.cc/RhCRPBNL/sticker4.png",
+            "descripcion" : "Sticker 4",
+            "tipo" : "sticker",
+            "de" : "Rotaract"
+          },
+          {
+            "id" : 38,
+            "url" : "https://i.postimg.cc/7PXX5fWs/sticker5.png",
+            "descripcion" : "Sticker 5",
+            "tipo" : "sticker",
+            "de" : "Rotaract"
+          },
+          {
+            "id" : 39,
+            "url" : "https://i.postimg.cc/YSgb0R5Y/sticker6.png",
+            "descripcion" : "Sticker 6",
+            "tipo" : "sticker",
+            "de" : "Rotaract"
+          },
+          {
+            "id" : 40,
+            "url" : "https://i.postimg.cc/W3w863b4/sticker7.png",
+            "descripcion" : "Sticker 7",
+            "tipo" : "sticker",
+            "de" : "Rotaract"
+          },
+          {
+            "id" : 41,
+            "url" : "https://i.postimg.cc/BvQ7YHkK/25.png",
+            "descripcion" : "Efemeride 25 de mayo",
+            "tipo" : "digital",
+            "de" : "Rotary"
+          },
+          {
+            "id" : 42,
+            "url" : "https://i.postimg.cc/Z0t6GzqQ/8m.png",
+            "descripcion" : "Efemeride dia de la mujer",
+            "tipo" : "digital",
+            "de" : "Rotary"
+          },
+          {
+            "id" : 43,
+            "url" : "https://i.postimg.cc/8zG0vqbw/ano-nuevo.png",
+            "descripcion" : "Efemeride año nuevo",
+            "tipo" : "digital",
+            "de" : "Rotary"
+          },
+          {
+            "id" : 44,
+            "url" : "https://i.postimg.cc/0Qhty3QY/dia-del-arbol.png",
+            "descripcion" : "Efemeride dia del arbol",
+            "tipo" : "digital",
+            "de" : "Rotary"
+          },
+          {
+            "id" : 45,
+            "url" : "https://i.postimg.cc/Pq33BNnF/interact.png",
+            "descripcion" : "Efemeride semana de interact",
+            "tipo" : "digital",
+            "de" : "Rotary"
+          },
+          {
+            "id" : 46,
+            "url" : "https://i.postimg.cc/MpYrmdPw/navidad-rotary.png",
+            "descripcion" : "Efemeride navidad",
+            "tipo" : "digital",
+            "de" : "Rotary"
+          },
+          {
+            "id" : 47,
+            "url" : "https://i.postimg.cc/mkDbTPPz/1.png",
+            "descripcion" : "Campana dia del arbol",
+            "tipo" : "digital",
+            "de" : "Rotary"
+          },
+          {
+            "id" : 48,
+            "url" : "https://i.postimg.cc/cLYd1yLm/1-1.png",
+            "descripcion" : "Campana dia del arbol ",
+            "tipo" : "digital",
+            "de" : "Rotary"
+          },
+          {
+            "id" : 49,
+            "url" : "https://i.postimg.cc/pr6PrPj0/4-CHARLA-ECOLOGIA.png",
+            "descripcion" : "Campana ecologia",
+            "tipo" : "digital",
+            "de" : "Rotary"
+          },
+          {
+            "id" : 50,
+            "url" : "https://i.postimg.cc/pr6PrPj0/4-CHARLA-ECOLOGIA.png",
+            "descripcion" : "Campana ecologia",
+            "tipo" : "digital",
+            "de" : "Rotary"
+          },
+          {
+            "id" : 51,
+            "url" : "https://i.postimg.cc/pr6PrPj0/4-CHARLA-ECOLOGIA.png",
+            "descripcion" : "Campana ecologia",
+            "tipo" : "digital",
+            "de" : "Rotary"
+          },
+          {
+            "id" : 52,
+            "url" : "https://i.postimg.cc/pr6PrPj0/4-CHARLA-ECOLOGIA.png",
+            "descripcion" : "Campana ecologia",
+            "tipo" : "digital",
+            "de" : "Rotary"
+          },
+          {
+            "id" : 53,
+            "url" : "https://i.postimg.cc/pr6PrPj0/4-CHARLA-ECOLOGIA.png",
+            "descripcion" : "Campana ecologia",
+            "tipo" : "digital",
+            "de" : "Rotary"
+          },
+          {
+            "id" : 54,
+            "url" : "https://i.postimg.cc/pr6PrPj0/4-CHARLA-ECOLOGIA.png",
+            "descripcion" : "Campana ecologia",
+            "tipo" : "digital",
+            "de" : "Rotary"
+          },
+          {
+            "id" : 55,
+            "url" : "https://i.postimg.cc/pr6PrPj0/4-CHARLA-ECOLOGIA.png",
+            "descripcion" : "Campana ecologia",
+            "tipo" : "digital",
+            "de" : "Rotary"
+          },
+          {
+            "id" : 56,
+            "url" : "https://i.postimg.cc/pr6PrPj0/4-CHARLA-ECOLOGIA.png",
+            "descripcion" : "Campana ecologia",
+            "tipo" : "digital",
+            "de" : "Rotary"
+          },
+          {
+            "id" : 57,
+            "url" : "https://i.postimg.cc/pr6PrPj0/4-CHARLA-ECOLOGIA.png",
+            "descripcion" : "Campana ecologia",
+            "tipo" : "digital",
+            "de" : "Rotary"
+          },
+          {
+            "id" : 58,
+            "url" : "https://i.postimg.cc/pr6PrPj0/4-CHARLA-ECOLOGIA.png",
+            "descripcion" : "Campana ecologia",
+            "tipo" : "digital",
+            "de" : "Rotary"
+          },
+          {
+            "id" : 59,
+            "url" : "https://i.postimg.cc/pr6PrPj0/4-CHARLA-ECOLOGIA.png",
+            "descripcion" : "Campana ecologia",
+            "tipo" : "digital",
+            "de" : "Rotary"
+          },
+          {
+            "id" : 60,
+            "url" : "https://i.postimg.cc/pr6PrPj0/4-CHARLA-ECOLOGIA.png",
+            "descripcion" : "Campana ecologia",
+            "tipo" : "digital",
+            "de" : "Rotary"
+          },
+          {
+            "id" : 61,
+            "url" : "https://i.postimg.cc/pr6PrPj0/4-CHARLA-ECOLOGIA.png",
+            "descripcion" : "Campana ecologia",
+            "tipo" : "digital",
+            "de" : "Rotary"
+          },
+          {
+            "id" : 62,
+            "url" : "https://i.postimg.cc/pr6PrPj0/4-CHARLA-ECOLOGIA.png",
+            "descripcion" : "Campana ecologia",
+            "tipo" : "digital",
+            "de" : "Rotary"
+          },
+          {
+            "id" : 63,
+            "url" : "https://i.postimg.cc/pr6PrPj0/4-CHARLA-ECOLOGIA.png",
+            "descripcion" : "Campana ecologia",
+            "tipo" : "digital",
+            "de" : "Rotary"
+          },
+          {
+            "id" : 64,
+            "url" : "https://i.postimg.cc/pr6PrPj0/4-CHARLA-ECOLOGIA.png",
+            "descripcion" : "Campana ecologia",
+            "tipo" : "digital",
+            "de" : "Rotary"
+          },
+          {
+            "id" : 65,
+            "url" : "https://i.postimg.cc/pr6PrPj0/4-CHARLA-ECOLOGIA.png",
+            "descripcion" : "Campana ecologia",
+            "tipo" : "digital",
+            "de" : "Rotary"
+          },
+          {
+            "id" : 66,
+            "url" : "https://i.postimg.cc/pr6PrPj0/4-CHARLA-ECOLOGIA.png",
+            "descripcion" : "Campana ecologia",
+            "tipo" : "digital",
+            "de" : "Rotary"
+          }
+        ]
+
+}
